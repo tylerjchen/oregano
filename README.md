@@ -1,6 +1,8 @@
 # Project
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9. Live demo available at https://oregano-1c9dc.firebaseapp.com
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9. 
+
+Live demo available at https://oregano-1c9dc.firebaseapp.com.
 
 ## Development server
 
